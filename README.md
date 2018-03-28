@@ -21,6 +21,21 @@ Correlation betweetn sentiment analysis results and bitcoin price are amboguous 
 ![alt text](https://github.com/Mikelaifu/Ripple-XRP-Twitter-analysis/blob/master/Charts/2018%20corr%20copy.png)
 
 -the corr between ripple avg price and sentiment compound is getting less and less negatively correlated
+
 -the corr between ripple avg price and volume is getting from positivlt correlated to nagtively coorelated
+
 -the corr between volume and sentiments is pretty constant in negtively correlated
+
+
+![alt text](https://github.com/Mikelaifu/Ripple-XRP-Twitter-analysis/blob/master/Charts/Price_Sentiment_corr%20copy.png)
+![alt text](https://github.com/Mikelaifu/Ripple-XRP-Twitter-analysis/blob/master/Charts/vol_sentiment_corr%20copy.png)
+
+roling corr between price and sentiemnts are ambiguously trending 
+
+roling corr between vol and sentiemnts are ambiguously trending  
+
+
+![alt text](https://github.com/Mikelaifu/Ripple-XRP-Twitter-analysis/blob/master/Charts/Price_sentiment%20copy.png)
+![alt text](https://github.com/Mikelaifu/Ripple-XRP-Twitter-analysis/blob/master/Charts/Vol_sentiments%20copy.png)
+
 
